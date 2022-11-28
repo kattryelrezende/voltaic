@@ -53,27 +53,27 @@
                                                         </div>
                                                         <div class="option">
                                                             <input type="radio" id="dist1" name="distancia" value="8">
-                                                            <label class="lblRadioFilter" for="dist1">Até 8km de distância</label><br>
+                                                            <label class="lblRadioFilter" for="dist1">Até 8km</label><br>
                                                         </div>
 
                                                         <div class="option">
                                                             <input type="radio" id="dist2" name="distancia" value="15">
-                                                            <label class="lblRadioFilter" for="dist2">Entre 9 e 15km de distância</label><br>  
+                                                            <label class="lblRadioFilter" for="dist2">Entre 9 e 15km</label><br>  
                                                         </div>
 
                                                         <div class="option">
                                                             <input type="radio" id="dist3" name="distancia" value="20">
-                                                            <label class="lblRadioFilter" for="dist3">Entre 16 e 20km de distância</label><br>
+                                                            <label class="lblRadioFilter" for="dist3">Entre 16 e 20km</label><br>
                                                         </div>
 
                                                         <div class="option">
                                                             <input type="radio" id="dist4" name="distancia" value="20-25km">
-                                                            <label class="lblRadioFilter" for="dist4">Entre 20 e 25km de distância</label><br>
+                                                            <label class="lblRadioFilter" for="dist4">Entre 20 e 25km</label><br>
                                                         </div>
 
                                                         <div class="option">
                                                             <input type="radio" id="dist5" name="distancia" value="+25km">
-                                                            <label class="lblRadioFilter" for="dist5">Mais de 25km de distância</label><br>
+                                                            <label class="lblRadioFilter" for="dist5">Mais de 25kma</label><br>
                                                         </div>
                                                     </div>
                                                     <div class="options-filtro">
